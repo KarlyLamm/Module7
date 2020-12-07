@@ -1,0 +1,4 @@
+D:\LU_LAMM\Fall_2020\C#\Module7\DatabaseAndFileExample\DatabaseAndFileExample\obj\Debug\netcoreapp3.1\DatabaseAndFileExample.csprojAssemblyReference.cache
+D:\LU_LAMM\Fall_2020\C#\Module7\DatabaseAndFileExample\DatabaseAndFileExample\obj\Debug\netcoreapp3.1\DatabaseAndFileExample.AssemblyInfoInputs.cache
+D:\LU_LAMM\Fall_2020\C#\Module7\DatabaseAndFileExample\DatabaseAndFileExample\obj\Debug\netcoreapp3.1\DatabaseAndFileExample.AssemblyInfo.cs
+D:\LU_LAMM\Fall_2020\C#\Module7\DatabaseAndFileExample\DatabaseAndFileExample\obj\Debug\netcoreapp3.1\DatabaseAndFileExample.csproj.CoreCompileInputs.cache
